@@ -9,7 +9,8 @@ public class student extends person {
         this.age=age;
         this.name=name;
         this.rollno=rollno;
-        this.marks=marks;
+        this.marks= marks;
+
         
     }
   
