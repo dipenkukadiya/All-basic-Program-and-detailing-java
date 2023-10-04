@@ -10,6 +10,7 @@ public class student extends person {
         this.name=name;
         this.rollno=rollno;
         this.marks= marks;
+        System.out.println("hello i am");
 
         
     }
