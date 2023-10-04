@@ -19,7 +19,7 @@ public class dt_vr {
         System.out.println(name);
         System.out.println(char1);
         System.out.println(a);
-        System.out.println(f1);
+        System.out.println(f1);fffffffffff
         System.out.println(digit);
     
 }
