@@ -3,6 +3,7 @@ package oops;
 public class classobj {
     public static void main(String[] args) {
         System.out.println("class object");
+        hello h1 = new hello();
 
     }
 
@@ -10,9 +11,8 @@ public class classobj {
 
 class hello extends classobj {
 
-    hello(){
+    hello() {
         System.out.println("sadasda");
     }
-    classobj cl = new classobj();
 
 }
