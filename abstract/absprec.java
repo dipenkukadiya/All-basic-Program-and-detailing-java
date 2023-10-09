@@ -27,7 +27,7 @@ class student extends absprec {
     student(String name, int age, int rollno, int marks) {
         super( name,age);
      
-        this.rollno = rollno;
+        this.rollno =   rollno;
         this.marks = marks;
     }
 
