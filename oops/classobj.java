@@ -7,12 +7,16 @@ public class classobj {
 
     }
 
+    void dipen(){
+        int number = 10;
+    }
+
 }
 
 class hello extends classobj {
 
     hello() {
-        System.out.println("sadasda");
+        System.out.println("use parent clasd");
     }
 
 }
