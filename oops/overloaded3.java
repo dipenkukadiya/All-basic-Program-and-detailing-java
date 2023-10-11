@@ -27,4 +27,4 @@ class test{
 }
 
 
-//genere methode has least priority
+//genere methode has least priority when calling

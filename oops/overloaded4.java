@@ -8,7 +8,7 @@ public class overloaded4{
         monkey m = new monkey();
         t.m1(m);
         animal a1 = new monkey();
-        t.m1(a1);
+        t.m1(a1); 
       
      }
 
