@@ -1,0 +1,14 @@
+coupling has two type :-
+1) tightly 2)loosely
+cohesion has two type :-
+1)high cohesion 2)low cohesion
+
+-> tightly mean dependent on other
+-> loosely mean not dependent on other object
+
+->cohesion mean one type of functionality...for high mean we can use it
+in order and reverse also but in low this functionality we can use only in flow.
+
+
+)))))))))))))))))))))))))))))
+So loosely coupling and high cohesion is good programing prectice for programmer.
