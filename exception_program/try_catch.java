@@ -23,3 +23,10 @@ class try_catch {
         System.out.println("statement 3");
     }
 }
+
+/* try{ 
+    risky code 
+} 
+catch(exception e){
+    handling code
+}*/
