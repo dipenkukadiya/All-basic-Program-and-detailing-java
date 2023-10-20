@@ -1,0 +1,10 @@
+Array index out of bound exception
+null pointer exception
+class caste exception
+stack over flow error
+no class def found error
+exception in initializer error
+illegal  argument exception
+number format exception
+illegal state exception
+assertion error
