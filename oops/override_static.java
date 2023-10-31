@@ -14,6 +14,6 @@ class c extends p{
     }
 }
 
-//  m1 in c cannnot override m1 in p;
-//coz overiding methode is statsic
+//  m1 in c can not override m1 in p;
+//coz overriding method is static
  // if both are static then its work like this program

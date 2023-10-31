@@ -23,12 +23,12 @@ class test{
         System.out.println("animal version");
     }
     public void m1(monkey m){
-        System.out.println("monkey verison");
+        System.out.println("monkey version");
 
     }
 
 }
 
 
-//string and string methode are both cancall null object if 
+//string and string method are both can call null object if 
 // call t.m1(null) then we get compile time error like m1 is ambiguous methode

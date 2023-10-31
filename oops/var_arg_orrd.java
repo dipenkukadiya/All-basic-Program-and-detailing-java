@@ -23,4 +23,4 @@ class c extends p{
 
 
 
-//is it overloaded not override coz diffrent datatype
+//is it overloaded not override coz different datatype

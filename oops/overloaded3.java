@@ -12,14 +12,14 @@ public class overloaded3{
 }
 class test{
     public void m1(int x){
-        System.out.println("genere methode");
+        System.out.println("genres method");
     }
     public void m1(int... x){
-        System.out.println("new verison");
+        System.out.println("new version");
 
     }
     public void m1(StringBuffer sb){
-        System.out.println("stingbuufer");
+        System.out.println("StringBuffer");
     }
 
 
@@ -27,4 +27,4 @@ class test{
 }
 
 
-//genere methode has least priority when calling
+//genres method has least priority when calling
