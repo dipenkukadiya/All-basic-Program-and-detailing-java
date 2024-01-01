@@ -8,6 +8,8 @@ public class lambda {
         full(()->System.out.println("hello"));
     }
     
-    static void full(tst t){t.print();}
+    static void full(tst t){
+        t.print();
+    }
 
 }
