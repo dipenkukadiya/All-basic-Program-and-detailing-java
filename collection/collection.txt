@@ -1,0 +1,96 @@
+array --> drawback to we preknow the value of that 
+for that we require collection
+
+1. arraylist    -----> STACK
+                |
+                |
+                -----> QUEUE
+
+                arraylist a = new arraylist();
+              >  not thread safe
+2. linkedlist
+            ********Methodes******
+
+            void addfirst();
+            void addlast();
+            Object Object getFirst();
+            Object getFirst();
+            Object getLast();
+            Object removeFirst();
+            Object removeLast();
+            linkedlist l = new linkedlist(any collection name nd object);
+> create node -->  address nd value
+
+
+DIFFRENCE BETWEEN AL AND LL 
+ BEST RERTIVAL          |    BEST CHOICE ADD AND DELETE        
+ RESIZABLE ND GROWABLE  |     
+RANDOM ACCSESS          |
+
+
+3. VECTOR
+
+>resizable array
+>duplicate
+>insertion order
+>hetrogenious variable accept
+>seriolzable and clonable
+>random acsess
+>thread safe
+
+*******Methodes*******
+
+
+addElement(object o)
+removeallElement(object o)
+VECTOR V = NEW VECTOR();
+new capacity = 2* intial(default(10))
+
+
+4. STACK
+*********Methodes********
+stack s = new stack();
+
+push()
+pop()
+peek()
+empty()
+search()
+
+5. their is 3 cursor available in java they give data one by one from 
+object of collection
+
+>>>>Enumeration
+                    --only Legacy classes mean old class 
+                    --read permission
+
+>>>>iterator
+                    --only move forward/replace not possible
+                    --read and remove operation
+>>>>listiterator
+                    --most powerfull
+                    --both direction in list forward and backward
+                    --so its bidirectional
+                    --read,remove ,add ,replace
+                    --but only list classes
+                    public ListIterator ltr =l.listiterator(l is any list object)
+
+enumeration e = v.elements();(v for vector)
+******Methodes*******
+public bollean hasmoreelements()
+
+
+6>
+
+HASH/HASSET/HASHMAP/HASHTABLE
+    hasset h= new hashset();
+    can define intialcapacity,load factor,float laod factor,
+    and also define collection as object so we can transform
+    collection to hasset
+
+set --gme te order ma hoi,pn duplicate not allowed
+setsort -->set sort kri ne aape
+
+TREESET
+treeset t = new treeset 
+
