@@ -91,6 +91,15 @@ HASH/HASSET/HASHMAP/HASHTABLE
 set --gme te order ma hoi,pn duplicate not allowed
 setsort -->set sort kri ne aape
 
-TREESET
-treeset t = new treeset 
+TREESET()-->INTERNALLY JVM CALLED COMAPARABLE METHODE
+--insertion order not preserved 
+--hetrogeneous object are not allowed
+--null allowed but only one time
+--treeset t = new treeset (comparator c)
+--treeset t = new treeset (collection c)
+--treeset t = new treeset (sortedset s)
+
+
+COMPARABLE MEAN SORTING
+COMPARATOR MEAN CUSTOMIZE SORT
 

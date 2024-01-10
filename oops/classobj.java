@@ -3,7 +3,7 @@ package oops;
 public class classobj {
     public static void main(String[] args) {
         System.out.println("class object");
-        hello h1 = new hello();
+        hello   = new hello();
 
     }
 
